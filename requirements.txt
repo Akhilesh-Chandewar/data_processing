@@ -1,11 +1,15 @@
 certifi==2025.11.12
 dnspython==2.8.0
--e git+https://github.com/Akhilesh-Chandewar/data_processing.git@fb6fb0a3e5043a3c10d887657332db8c96d58571#egg=network_security
+joblib==1.5.2
+-e git+https://github.com/Akhilesh-Chandewar/data_processing.git@625e6d7715742be99e7b38b5b73b44efdfec65a5#egg=network_security
 numpy==2.2.6
 pandas==2.3.3
 pymongo==4.15.5
 python-dateutil==2.9.0.post0
 python-dotenv==1.2.1
 pytz==2025.2
+scikit-learn==1.7.2
+scipy==1.15.3
 six==1.17.0
+threadpoolctl==3.6.0
 tzdata==2025.2
