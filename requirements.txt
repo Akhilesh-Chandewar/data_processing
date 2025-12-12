@@ -1,7 +1,6 @@
 certifi==2025.11.12
 dnspython==2.8.0
-# Editable Git install with no remote (network-security==0.1)
--e /home/user/Desktop/netwok_security
+-e git+https://github.com/Akhilesh-Chandewar/data_processing.git@fb6fb0a3e5043a3c10d887657332db8c96d58571#egg=network_security
 numpy==2.2.6
 pandas==2.3.3
 pymongo==4.15.5
