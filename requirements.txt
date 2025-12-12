@@ -1,0 +1,12 @@
+certifi==2025.11.12
+dnspython==2.8.0
+# Editable Git install with no remote (network-security==0.1)
+-e /home/user/Desktop/netwok_security
+numpy==2.2.6
+pandas==2.3.3
+pymongo==4.15.5
+python-dateutil==2.9.0.post0
+python-dotenv==1.2.1
+pytz==2025.2
+six==1.17.0
+tzdata==2025.2
